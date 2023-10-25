@@ -67,7 +67,7 @@ export default function Header() {
               		</div>
             	</div>
             
-            	<img src="https://english.onlinekhabar.com/wp-content/uploads/2022/06/waste-management-segregation-bins.jpg" />
+            	
         	</div>
 			<div>
 				{
